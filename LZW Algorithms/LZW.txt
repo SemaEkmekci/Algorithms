@@ -1,0 +1,3 @@
+Dosyanın Sıkıştırılmadan Önceki Boyutu: 124 bit
+Dosyanın Sıkıştırıldıktan Sonraki Boyutu: 168 bit
+LZW Algoritmasının Çalışma Süresi:  + 0.011873000010382384 ms
